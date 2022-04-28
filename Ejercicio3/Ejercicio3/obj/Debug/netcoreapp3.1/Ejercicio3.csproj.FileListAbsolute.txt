@@ -1,0 +1,14 @@
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.exe
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.deps.json
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.json
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.dev.json
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfo.cs
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.dll
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.pdb
+C:\Users\alexp\source\repos\Ejercicio3\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.genruntimeconfig.cache
